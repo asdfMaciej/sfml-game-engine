@@ -1,9 +1,14 @@
 # depslib dependency file v1.0
-1506286912 source:e:\cpp hello\silnik\main.cpp
+1506633909 source:e:\cpp hello\silnik\main.cpp
 	<SFML/Graphics.hpp>
 	<vector>
 	<iostream>
+	<sstream>
+	<iomanip>
 	<map>
+	<algorithm>
+	<math.h>
+	"Eng.cpp"
 
 1470642834 e:\sfml-2.4.2\include\sfml\graphics.hpp
 	<SFML/Window.hpp>
@@ -391,4 +396,10 @@
 	<SFML/System/String.hpp>
 	<string>
 	<vector>
+
+1506630238 e:\cpp hello\silnik\eng.cpp
+	<SFML/Graphics.hpp>
+	<vector>
+	<iostream>
+	<map>
 
